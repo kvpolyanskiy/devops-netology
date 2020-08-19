@@ -11,3 +11,5 @@
 * override.tf, override.tf.json
 * заканчивающиеся на _override.tf и _override.tf.json
 * .terraformrc и terraform.rc
+
+### Задание 3 - Ветки
